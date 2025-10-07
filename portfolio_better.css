@@ -39,7 +39,7 @@ html{
   display: flex;
   width: 90%; 
   flex-wrap: wrap;
-  gap: 1em;
+  gap: 0.5%;
 }
 
 .coll-top{
