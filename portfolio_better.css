@@ -603,6 +603,10 @@ textarea::-webkit-scrollbar-thumb:hover{
     font-size: 14pt;
   }
 
+    .body-text{
+    font-size: 14pt;
+    }
+
   .front-contact{ 
     font-size: 16pt;
     background-color:rgb(190, 97, 128);
